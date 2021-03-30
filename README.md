@@ -1,4 +1,4 @@
-# Foodie Restaurant Bot By Atul and Manoj
+# Foodie Restaurant Bot By Atul Sharma
 
 An Indian startup named 'Foodie' wants to build a conversational bot (chatbot) which can help users discover restaurants across several cities in India. 
 
